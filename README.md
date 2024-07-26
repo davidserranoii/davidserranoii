@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidserranoii
-- 👀 I’m interested in cloud security
-- 💞️ Major: Cybersecurity | Focus: Programming and Analytics
+- 💞️ Bachelor of Science in Cybersecurity | Concentration in Programming and Analytics
 - 📫 Let's Connect: https://www.linkedin.com/in/david-serrano-ii-b52571b5/
 
 <!---
